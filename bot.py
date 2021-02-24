@@ -1,6 +1,6 @@
 from discord_slash import SlashCommand, SlashContext
 from discord.ext import commands
-from properties import token
+from properties import token # a file never added to github
 import discord
 import discord_slash
 import time
